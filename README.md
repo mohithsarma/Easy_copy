@@ -1,5 +1,6 @@
-# easy_copy
-This is for me to copy and paste easily to my job applications 
+##Easy Copy - A Personal Information Management Tool
+
+This project allows you to easily copy text content from your webpage to the clipboard with a single click. It utilizes JavaScript to identify the element you click on and copy its text.
 ### usage :
 Click on text for text to be directly copied to Clipboard. 
 
